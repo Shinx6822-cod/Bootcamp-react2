@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import Progress from './Progress';
 import CatFact from './CatFact';
 
-const list = ['ubuntu', 'windows', 'macos', 'manjaro', 'android']
+const list = ['ubuntu', 'windows', 'macos', 'manjaro', 'android','iphone']
 const employees = [
   {
     name: "bagas",
